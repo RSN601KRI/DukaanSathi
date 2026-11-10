@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1792330551474,
+      "tag": "0000_private_shop_inventory",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1792820195500,
+      "tag": "0001_clerk_shop_profiles",
+      "breakpoints": true
+    }
+  ]
+}
